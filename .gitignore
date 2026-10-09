@@ -1,0 +1,15 @@
+node_modules/
+__pycache__/
+*.log
+.DS_Store
+
+# Generated credentials, enrollment, and local Codex state
+auth.json
+*-auth.json
+device-key.json
+device_key.json
+enrollment.json
+enrollments.json
+installation_id
+state_*.sqlite
+state_*.sqlite-*
